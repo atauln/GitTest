@@ -1,5 +1,5 @@
 @echo off
-color 14
+color 41
 :top
 echo lol
 GOTO top

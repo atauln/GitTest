@@ -1,5 +1,5 @@
 @echo off
-color 41
+color 46
 :top
-echo lol
+echo Laugh out loud
 GOTO top
